@@ -41,12 +41,13 @@
    - Mobile App: `git clone https://github.com/trung-hoang-1610/BookSmart-Flutter-UI.git`
    - API Backend: `git clone https://github.com/trung-hoang-1610/BookSmart-API.git`
    - Admin Website: `git clone https://github.com/trung-hoang-1610/BookSmart-Admin-Dashboard.git`
+   - File backup CSDL (.bak): https://drive.google.com/file/d/1NjUuBkg6PdqPxcpL5RdYx0hV1QGCb1wL/view
 
 2. **Chạy API Backend:**
    - Mở terminal, chuyển đến thư mục chứa mã nguồn của API.
    - Cài đặt các gói cần thiết: `dotnet restore`
    - Áp dụng migration: `dotnet ef database update`
-   - Chạy API: `dotnet run`
+   - Chạy API
    - API mặc định chạy trên `http://localhost:5000` (có thể thay đổi cấu hình cho phù hợp).
 
 3. **Chạy Ứng Dụng Mobile:**
