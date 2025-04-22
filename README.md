@@ -38,9 +38,9 @@
 ## Hướng dẫn chạy dự án  
 **Yêu cầu:** Flutter SDK, .NET Core SDK, SQL Server  
 1. **Clone các repository:**
-   - Mobile App: `git clone https://github.com/trung-hoang-1610/BookSmart-Flutter-UI.git`
-   - API Backend: `git clone https://github.com/trung-hoang-1610/BookSmart-API.git`
-   - Admin Website: `git clone https://github.com/trung-hoang-1610/BookSmart-Admin-Dashboard.git`
+   - Mobile App: `https://github.com/trung-hoang-1610/BookSmart-Flutter-UI.git`
+   - API Backend: `https://github.com/trung-hoang-1610/BookSmart-API.git`
+   - Admin Website: `https://github.com/trung-hoang-1610/BookSmart-Admin-Dashboard.git`
    - File backup CSDL (.bak): https://drive.google.com/file/d/1NjUuBkg6PdqPxcpL5RdYx0hV1QGCb1wL/view
 
 2. **Chạy API Backend:**
