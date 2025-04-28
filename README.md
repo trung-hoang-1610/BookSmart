@@ -41,7 +41,7 @@
    - Mobile App: `https://github.com/trung-hoang-1610/BookSmart-Flutter-UI.git`
    - API Backend: `https://github.com/trung-hoang-1610/BookSmart-API.git`
    - Admin Website: `https://github.com/trung-hoang-1610/BookSmart-Admin-Dashboard.git`
-   - File backup CSDL (.bak): https://drive.google.com/file/d/1NjUuBkg6PdqPxcpL5RdYx0hV1QGCb1wL/view](https://drive.google.com/file/d/1mrym1m0CQ4pPPELX8c6ZxoyMiU2ENYJ3/view
+   - File backup CSDL (.bak): https://drive.google.com/file/d/1mrym1m0CQ4pPPELX8c6ZxoyMiU2ENYJ3/view
 
 2. **Chạy API Backend:**
    - Mở terminal, chuyển đến thư mục chứa mã nguồn của API.
